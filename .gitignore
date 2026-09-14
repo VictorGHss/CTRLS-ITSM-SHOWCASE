@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Secrets & Environment
+.env
+.env.local
+*.key
+*.pem
